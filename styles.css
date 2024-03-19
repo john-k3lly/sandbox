@@ -10,6 +10,37 @@ body {
 }
 */
 
+.body {
+    display: block;
+    margin-left: 100px;
+}
+
+#header {
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 200px;
+    color: #DC4D01;
+}
+
+.zen-img{
+    width: 200px;
+}
+
+.text-big {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text-med {
+    font-size: 30px;
+}
+
+.text-sml {
+    font-size: 20px;
+}
+
+
+
 .main {
     margin-top: 100px;
 }
