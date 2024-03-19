@@ -1,3 +1,4 @@
+/*
 body {
     background: #8B4513;
     color: white;
@@ -7,3 +8,19 @@ body {
     font-weight: lighter;
     margin-top: 5px;
 }
+*/
+
+.main {
+    margin-top: 100px;
+}
+
+.logo-img {
+    width: 300px;
+    display: block;
+}
+
+.search-input {
+    width: 400px;
+    display: block;
+}
+
