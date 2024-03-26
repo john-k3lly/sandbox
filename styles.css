@@ -46,9 +46,11 @@ body {
 }
 
 .logo-img {
-    margin-bottom: 200px;
-    width: 300px;
     display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
 }
 
 .search-input {
